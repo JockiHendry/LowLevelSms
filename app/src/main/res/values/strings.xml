@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LowLevelSMS</string>
+    <string name="title_activity_main">Lihat SMS</string>
+    <string name="title_activity_send_sms">Kirim SMS</string>
+    <string name="title_activity_detail_sms">Detail SMS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
